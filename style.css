@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+
+    font-family: ;
+}
+
+
+h1, h2 ,h3, h4, h5, h6  {
+
+}
+
+
+header{
+
+background-image:url(background-banner.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+
+.banner-container{
+     height: 100vh;
+}
