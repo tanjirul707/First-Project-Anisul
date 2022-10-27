@@ -78,11 +78,11 @@ header {
 }
 
 
-
+/* 
 .for-butt {
     margin-top: -11%;
 
-}
+} */
 
 
 #features {
@@ -191,25 +191,12 @@ header {
 }
 
 #Feedback {
+    /* padding: 5%; */
+    padding: 5% 15%;
+    background: #a3d2ca;
 
-    padding: 5%;
 }
 
-/* .style-img{
-
-width: 400px;
-height: auto;
-margin-bottom: 5px;
-}
-
-.carousel-inner .carousel-item{
-text-align: center;
-padding: 7% 15%;
-font-size: 1.2rem;
-font-style: italic;
-background-color: #5eaaa8;
-
-} */
 
 .style-img {
     width: 100%;
@@ -230,9 +217,9 @@ background-color: #5eaaa8;
     padding: 3% 15%;
     font-size: 1.2rem;
     font-style: italic;
-
+color: white;
     text-align: center;
-
+background-color: #66485f;
 
 }
 
@@ -248,4 +235,24 @@ text-align: center;
 font-size: 40px;
 }
 
+/* contrat info start here */
 
+#contract{
+
+    padding: 5% 15%;
+    background: #dcf13a;
+
+}
+
+
+
+
+/* contrat info starts here */
+
+.form-group label{
+
+margin-bottom: 0;
+font-weight: bold;
+font-size: 35px;
+}
+/* contrat info ends here */
